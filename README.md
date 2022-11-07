@@ -1,4 +1,3 @@
 # ipm-2021-2022-project2
 
-2º Projeto da unidade curricular de *Interfaces Pessoa e Máquina* com Inês Ji e Miguel Eleutério.
-Todo o código excepto sketch.js é default.
+2nd *Human-Computer Interaction* project with Inês Ji and Miguel Eleutério
